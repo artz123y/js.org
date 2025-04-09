@@ -1,1 +1,7 @@
-
+{
+  "owner": {
+    "repo": "https://github.com/artz123y/nappin-site",
+    "email": "urasceyhann@gmail.com"
+  },
+  "redirect": "https://nappin-site.vercel.app"
+}
